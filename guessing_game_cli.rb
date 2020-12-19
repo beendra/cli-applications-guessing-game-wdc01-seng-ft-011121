@@ -5,5 +5,5 @@ def run_guessing_game
   input = gets.chomp
   if input = random.to_s 
     puts "You guessed the right number"
-    
+  elseif input = exit 
 end
